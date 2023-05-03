@@ -1,0 +1,17 @@
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\bin\Debug\net7.0\CitamaniaPOC.Business.deps.json
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\bin\Debug\net7.0\CitamaniaPOC.Business.dll
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\bin\Debug\net7.0\CitamaniaPOC.Business.pdb
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\bin\Debug\net7.0\CitamaniaPOC.Data.dll
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\bin\Debug\net7.0\CitamaniaPOC.Domain.dll
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\bin\Debug\net7.0\CitamaniaPOC.Data.pdb
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\bin\Debug\net7.0\CitamaniaPOC.Domain.pdb
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.csproj.AssemblyReference.cache
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.AssemblyInfoInputs.cache
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.AssemblyInfo.cs
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.csproj.CoreCompileInputs.cache
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.csproj.CopyComplete
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.dll
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\refint\CitamaniaPOC.Business.dll
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\CitamaniaPOC.Business.pdb
+C:\ejemplos\CitamaniaPOC\CitamaniaPOC.Business\obj\Debug\net7.0\ref\CitamaniaPOC.Business.dll
