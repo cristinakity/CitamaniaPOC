@@ -1,5 +1,5 @@
-﻿using System.Data.SqlClient;
-using System.Data;
+﻿using System.Data;
+using System.Data.SqlClient;
 
 namespace CitamaniaPOC.Data.Repositories.Core
 {
@@ -12,6 +12,5 @@ namespace CitamaniaPOC.Data.Repositories.Core
         {
             _connectionString = connectionString;
         }
-
     }
 }

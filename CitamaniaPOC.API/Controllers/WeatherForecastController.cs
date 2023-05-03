@@ -1,5 +1,3 @@
-using Microsoft.AspNetCore.Mvc;
-
 namespace CitamaniaPOC.API.Controllers
 {
     [ApiController]

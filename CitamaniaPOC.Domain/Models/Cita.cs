@@ -3,6 +3,7 @@ namespace CitamaniaPOC.Domain.Models
     public class Cita
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Required]
         public int CitaId { get; set; }
 

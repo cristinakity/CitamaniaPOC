@@ -138,7 +138,6 @@ namespace CitamaniaPOC.Data.Repositories.Core
                     case "ModifiedBy":
                         value = null;
                         break;
-
                 }
 
                 parameters.Add(column, value);
@@ -188,7 +187,6 @@ namespace CitamaniaPOC.Data.Repositories.Core
                     case "ModifiedBy":
                         value = user;
                         break;
-
                 }
 
                 if (column != "CreatedOn" && column != "CreatedBy")

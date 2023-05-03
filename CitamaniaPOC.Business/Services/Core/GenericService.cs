@@ -1,9 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Data;
-using System.Data.SqlClient;
-using System.Reflection;
-
 namespace CitamaniaPOC.Business.Services.Core
 {
     public class GenericService<TRepository, TEntity, TResponse, TPayload> : IGenericService<TResponse, TPayload>
@@ -49,6 +43,5 @@ namespace CitamaniaPOC.Business.Services.Core
             var modelEntity = _mapper.Map<TEntity>(entity);
             await _repository.Update(modelEntity, user, keyValues);
         }
-
     }
 }

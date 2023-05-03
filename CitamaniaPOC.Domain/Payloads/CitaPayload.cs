@@ -2,48 +2,47 @@ namespace CitamaniaPOC.Domain.Payloads
 {
     public class CitaPayload
     {
-                [Key]
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Required]
-
         public int CitaId { get; set; }
-                [Required]
 
+        [Required]
         public int ClienteId { get; set; }
-                [Required]
 
+        [Required]
         public Guid CodigoUnico { get; set; }
-                [Required]
+
+        [Required]
         [MaxLength(50)]
-
         public string Estatus { get; set; }
-        
+
         public DateTime? FechaAprobacion { get; set; }
-        
+
         public DateTime? FechaCancelacion { get; set; }
-                [Required]
 
+        [Required]
         public DateTime FechaCreacion { get; set; }
-                [Required]
 
+        [Required]
         public DateTime FechaDeCita { get; set; }
-        
+
         public DateTime? FechaModificacion { get; set; }
-                [MaxLength(400)]
 
+        [MaxLength(400)]
         public string? MotivoDeCancelacion { get; set; }
-                [MaxLength(500)]
 
+        [MaxLength(500)]
         public string? Notas { get; set; }
-                [Required]
 
+        [Required]
         public int PrestadorDeServicioId { get; set; }
-                [Required]
 
+        [Required]
         public int SolicitanteId { get; set; }
-        
-        public int? UsuarioAprobacionId { get; set; }
-        
-        public int? UsuarioCancelacionId { get; set; }
 
+        public int? UsuarioAprobacionId { get; set; }
+
+        public int? UsuarioCancelacionId { get; set; }
     }
 }

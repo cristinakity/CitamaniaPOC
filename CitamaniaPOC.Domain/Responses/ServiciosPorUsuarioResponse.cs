@@ -2,24 +2,23 @@ namespace CitamaniaPOC.Domain.Responses
 {
     public class ServiciosPorUsuarioResponse
     {
-                [Key]
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Required]
-
         public int ServicioId { get; set; }
-                [Required]
+
+        [Required]
         [MaxLength(400)]
-
         public string Descripcion { get; set; }
-                [Required]
 
+        [Required]
         public decimal Precio { get; set; }
-                [Required]
+
+        [Required]
         [MaxLength(100)]
-
         public string Servicio { get; set; }
-                [Required]
 
+        [Required]
         public int UsuarioId { get; set; }
-
     }
 }
